@@ -128,7 +128,7 @@ export function Footer() {
           </div>
         </div>
       </div>
-      <div className="flex h-20 items-center justify-center border-t px-[60px] text-sm font-medium tracking-[-0.02em]">
+      <div className="flex h-20 items-center justify-center border-t px-6 sm:px-[60px] text-sm font-medium tracking-[-0.02em]">
         © {new Date().getFullYear()} Tirar Visto - Todos os Direitos Reservados
       </div>
     </footer>
